@@ -1,0 +1,13 @@
+streamlit==1.37.1
+openai-whisper
+torch
+torchaudio
+sentence-transformers
+librosa
+numpy
+matplotlib
+reportlab
+soundfile
+pandas
+scikit-learn
+plotly
